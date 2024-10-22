@@ -1,4 +1,4 @@
-# Small GUI Interface in Java
+#  A Small GUI Interface in Java
 
 - ### Prequisites
   
