@@ -2,11 +2,11 @@
 
 - ### Prequisites
   
-- java sdk
+- Java SDK
 
 - ### Instructions
   
-- ### 1. Running On a Terminal
+ ### 1. Running On a Terminal
   
 - Clone this repository
 
@@ -31,7 +31,7 @@ The window appears to have no title bar because its running on wayland. However 
 ![Screenshot 2024-10-22 152413](https://github.com/user-attachments/assets/f978ead0-dbf4-4433-9f18-c904535f568a)
 
 
-- ### 2. Using an IDE
+### 2. Using an IDE
 
 - Open the folder where this repo was cloned with your IDE of choice
   
