@@ -25,7 +25,9 @@
 ![Screenshot_22-Oct_18-03-12_6592](https://github.com/user-attachments/assets/0922d70a-fad5-44f8-8c5e-f5ab09694d64)
 
 
-The window appears to have no title bar because its running on wayland. However the title bar will be rendered correctly if the program is executed on windows or a desktop environment that uses xorg instead of wayland
+The window appears to have no title bar because its running on wayland. However, the title bar will be rendered correctly if the program is executed on windows or a desktop environment that uses xorg instead of wayland.
+
+Here is a screenshot to illustrate further
 
 
 ![Screenshot 2024-10-22 152413](https://github.com/user-attachments/assets/f978ead0-dbf4-4433-9f18-c904535f568a)
