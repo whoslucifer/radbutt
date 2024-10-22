@@ -1,6 +1,6 @@
 #  A Small GUI Interface in Java
 
-- ### Prequisites
+### Prequisites
   
 - Java SDK
 
