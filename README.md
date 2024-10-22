@@ -21,8 +21,9 @@
 - Run Main.class without the .class extension
 
       java Main
-  
-![Screenshot_22-Oct_17-32-34_10929](https://github.com/user-attachments/assets/12b740b0-acd1-4a4f-aa66-5a7b51ac2d48)
+
+![Screenshot_22-Oct_18-03-12_6592](https://github.com/user-attachments/assets/0922d70a-fad5-44f8-8c5e-f5ab09694d64)
+
 
 The window appears to have no title bar because its running on wayland. However the title bar will be rendered correctly if the program is executed on windows or a desktop environment that uses xorg instead of wayland
 
