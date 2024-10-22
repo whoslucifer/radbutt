@@ -28,11 +28,18 @@
 The window appears to have no title bar because its running on wayland. However the title bar will be rendered correctly if the program is executed on windows or a desktop environment that uses xorg instead of wayland
 
 
-- ### 2. On Windows
+![Screenshot 2024-10-22 152413](https://github.com/user-attachments/assets/f978ead0-dbf4-4433-9f18-c904535f568a)
+
+
+- ### 2. Using an IDE
 
 - Open the folder where this repo was cloned with your IDE of choice
   
 - Open the Main.java file and run
+
+
+![Screenshot 2024-10-22 153250](https://github.com/user-attachments/assets/e9c6da00-75b3-4bc9-a16e-1df8145bb04a)
+
 
   
        
