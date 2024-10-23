@@ -14,6 +14,8 @@
 
 - Navigate into the directory you just cloned
 
+      cd radbutt
+
 - Run this code to compile all the java classes at once
 
       javac Main.java MyFrame.java    
