@@ -8,13 +8,9 @@
   
  ### 1. Running On a Terminal
   
-- Clone this repository
+- Clone this repository and cd into it
 
-      git clone https://github.com/whoslucifer/radbutt.git
-
-- Navigate into the directory you just cloned
-
-      cd radbutt
+      git clone https://github.com/whoslucifer/radbutt.git && cd radbutt
 
 - Run this code to compile all the java classes at once
 
