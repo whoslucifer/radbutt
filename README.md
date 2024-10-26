@@ -2,9 +2,9 @@
 
 ### Prequisites
   
-- Java SDK
+  Java SDK
 
-- ### Instructions
+ ### Instructions
   
  ### 1. Running On a Terminal
   
