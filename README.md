@@ -2,7 +2,7 @@
 
 ### Prequisites
   
-  Java SDK
+   Java SDK
 
  ### Instructions
   
